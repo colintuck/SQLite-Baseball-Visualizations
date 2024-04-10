@@ -1,6 +1,6 @@
 # SQLite-Baseball-Visualizations
 
-This was a project using SQLite to query specific information from the Lahman Baseball Database. The queried table was then used to make multiple visualizations using the data.
+This was a project using SQLite to query specific information from the Lahman Baseball Database. Python was used on the SQLite queried table to make multiple visualizations of the data.
 
 0.1 Copyright Notice & Limited Use License for Data
 
